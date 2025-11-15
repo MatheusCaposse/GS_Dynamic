@@ -89,6 +89,6 @@ O projeto utiliza os seguintes recursos:
 - Biblioteca Matplotlib para visualização gráfica
 
 
-📜 Licença
-
-Este projeto é de livre uso para fins educacionais, organizacionais ou de estudo. Pode ser modificado de acordo com as necessidades do usuário.
+Integrantes:
+Matheus Machado Caposse RM560340
+Caio Berardo RM560357
