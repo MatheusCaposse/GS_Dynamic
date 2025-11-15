@@ -19,7 +19,7 @@ O sistema possui as seguintes funcionalidades principais:
 - Gera um gráfico comparando a quantidade de reclamações e sugestões.
 
 - Oferece uma interface simples via terminal para fácil utilização.
-- 
+  
 
 🎯 Objetivo do Projeto
 
@@ -53,6 +53,7 @@ Após escolher registrar algo, o usuário digita a mensagem que deseja enviar. O
 
 
 📂 Estrutura do Sistema
+
 O sistema é organizado em funções para facilitar a manutenção e a leitura do código. A estrutura segue a seguinte lógica:
 
 - A função responsável pelo menu organiza e controla todas as opções disponíveis.
