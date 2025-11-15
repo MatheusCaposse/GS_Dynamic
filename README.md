@@ -67,11 +67,14 @@ O sistema é organizado em funções para facilitar a manutenção e a leitura d
 - A função de geração de gráfico utiliza a biblioteca Matplotlib para ilustrar a quantidade de cada tipo de registro.
   
 
+
 🗂 Armazenamento dos Dados
+
 Todos os registros são salvos em um arquivo chamado registros.csv. Cada linha contém duas informações: o tipo do registro e a mensagem escrita pelo usuário. Esse arquivo permite análises posteriores e facilita a integração com ferramentas externas.
 
 
 📊 Visualização Gráfica
+
 O Lyra conta com uma função que calcula quantas reclamações e quantas sugestões foram registradas até o momento. Com esses dados, é gerado um gráfico de barras simples utilizando Matplotlib, permitindo uma visualização clara da predominância de cada tipo de registro.
 
 
