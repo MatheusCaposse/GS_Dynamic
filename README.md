@@ -20,9 +20,8 @@ O sistema possui as seguintes funcionalidades principais:
 - Oferece uma interface simples via terminal para fácil utilização.
 
 🎯 Objetivo do Projeto
-- O principal objetivo do Lyra é proporcionar um canal seguro para que colaboradores expressem suas opiniões, preocupações e ideias. Isso ajuda a empresa a monitorar o ambiente organizacional e agir proativamente para melhorar o bem-estar emocional e estrutural do local de trabalho.
-
-- A ferramenta facilita:
+O principal objetivo do Lyra é proporcionar um canal seguro para que colaboradores expressem suas opiniões, preocupações e ideias. Isso ajuda a empresa a monitorar o ambiente organizacional e agir proativamente para melhorar o bem-estar emocional e estrutural do local de trabalho.
+A ferramenta facilita:
 
 - A coleta de feedbacks.
 
