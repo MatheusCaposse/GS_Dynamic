@@ -19,6 +19,7 @@ O sistema possui as seguintes funcionalidades principais:
 - Gera um gráfico comparando a quantidade de reclamações e sugestões.
 
 - Oferece uma interface simples via terminal para fácil utilização.
+- 
 
 🎯 Objetivo do Projeto
 
@@ -32,6 +33,7 @@ A ferramenta facilita:
 - A visualização dos dados.
 
 - A análise dos tipos de registros recebidos.
+- 
 
 🚀 Como Funciona:
 Ao iniciar o chatbot, o usuário é recebido pelo Lyra com uma apresentação amigável. Em seguida, é exibido um menu com cinco opções:
@@ -48,6 +50,7 @@ Ao iniciar o chatbot, o usuário é recebido pelo Lyra com uma apresentação am
 
 Após escolher registrar algo, o usuário digita a mensagem que deseja enviar. O sistema salva automaticamente o registro no arquivo e confirma a ação. Caso o usuário queira visualizar os dados, o próprio chatbot mostra no console todos os registros ordenados.
 
+
 📂 Estrutura do Sistema
 O sistema é organizado em funções para facilitar a manutenção e a leitura do código. A estrutura segue a seguinte lógica:
 
@@ -60,14 +63,18 @@ O sistema é organizado em funções para facilitar a manutenção e a leitura d
 - A função de visualização lê o arquivo, organiza os registros e os apresenta no console.
 
 - A função de geração de gráfico utiliza a biblioteca Matplotlib para ilustrar a quantidade de cada tipo de registro.
+  
 
 🗂 Armazenamento dos Dados
 Todos os registros são salvos em um arquivo chamado registros.csv. Cada linha contém duas informações: o tipo do registro e a mensagem escrita pelo usuário. Esse arquivo permite análises posteriores e facilita a integração com ferramentas externas.
 
+
 📊 Visualização Gráfica
 O Lyra conta com uma função que calcula quantas reclamações e quantas sugestões foram registradas até o momento. Com esses dados, é gerado um gráfico de barras simples utilizando Matplotlib, permitindo uma visualização clara da predominância de cada tipo de registro.
 
+
 🛠 Tecnologias Utilizadas
+
 O projeto utiliza os seguintes recursos:
 
 - Linguagem Python
