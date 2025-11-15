@@ -3,6 +3,7 @@
 O Lyra é um chatbot desenvolvido em Python com o propósito de oferecer aos colaboradores uma forma prática, segura e totalmente anônima de registrar reclamações e sugestões. A ferramenta promove um ambiente de trabalho mais saudável ao incentivar a comunicação interna e dar voz aos funcionários sem riscos de identificação.
 
 📌 Funcionalidades: 
+
 O sistema possui as seguintes funcionalidades principais:
 
 - Permite registrar reclamações anonimamente.
@@ -20,6 +21,7 @@ O sistema possui as seguintes funcionalidades principais:
 - Oferece uma interface simples via terminal para fácil utilização.
 
 🎯 Objetivo do Projeto
+
 O principal objetivo do Lyra é proporcionar um canal seguro para que colaboradores expressem suas opiniões, preocupações e ideias. Isso ajuda a empresa a monitorar o ambiente organizacional e agir proativamente para melhorar o bem-estar emocional e estrutural do local de trabalho.
 A ferramenta facilita:
 
