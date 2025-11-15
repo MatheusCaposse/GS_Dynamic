@@ -36,6 +36,7 @@ A ferramenta facilita:
 - 
 
 🚀 Como Funciona:
+
 Ao iniciar o chatbot, o usuário é recebido pelo Lyra com uma apresentação amigável. Em seguida, é exibido um menu com cinco opções:
 
 - Registrar reclamação.
