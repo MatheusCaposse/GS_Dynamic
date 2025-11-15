@@ -90,5 +90,5 @@ O projeto utiliza os seguintes recursos:
 
 
 Integrantes:
-Matheus Machado Caposse RM560340
-Caio Berardo RM560357
+- Matheus Machado Caposse RM560340
+- Caio Berardo RM560357
